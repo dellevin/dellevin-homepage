@@ -1,5 +1,7 @@
 # dellevin-homepage
 
+
+
 ## Project setup
 ```
 npm install
@@ -15,10 +17,10 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+## 致谢
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://github.com/wexuo/home
+
+https://github.com/hold-baby/bookmark-file-parser
+
+
